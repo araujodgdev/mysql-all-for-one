@@ -1,2 +1,2 @@
 -- Active: 1685731352082@@127.0.0.1@3306@northwind
-SELECT id FROM products ORDER BY id LIMIT 5 OFFSET 40;
+SELECT id FROM products ORDER BY id DESC LIMIT 5;
